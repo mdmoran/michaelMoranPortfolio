@@ -16,4 +16,7 @@ HTML work:
     https://github.com/mdmoran/michaelMoranPortfolio/blob/master/nwcwebsite.zip
   
 JavaScript work:
-  
+  The first program that actually has a goal/purpose in mind, a drawing program (created using the p5.js editor):
+    https://github.com/mdmoran/michaelMoranPortfolio/blob/master/sketchErase.zip
+  A final project for a class, but I plan to improve outside of class, a zombie-shooting game with increasingly difficult levels (created   using the p5.js editor):
+    https://github.com/mdmoran/michaelMoranPortfolio/blob/master/zombieShootEmUp.zip
